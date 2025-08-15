@@ -1,7 +1,7 @@
 {
-  "name": "rammerhead",
-  "version": "1.2.64",
-  "description": "User friendly web proxy powered by testcafe-hammerhead",
+  "name": "henrys browser",
+  "version": "v1",
+  "description": "Henry: Keeping your browsing clean since… well, forever.",
   "main": "src/index.js",
   "scripts": {
     "preinstall": "npm install --package-lock-only --ignore-scripts && npx npm-force-resolutions",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binary-person/rammerhead.git"
+    "url": "githttps://github.com/YuckESneeze/henrysbrowser.github.io"
   },
-  "author": "Simon Cheng <simoncheng559@gmail.com> (https://github.com/binary-person)",
+  "author": "Henry Nowacki <hankytplays@gmail.com> (https://github.com/binary-person)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/binary-person/rammerhead/issues"
+    "url": "https://github.com/YuckESneeze/henrysbrowser.github.io/issues"
   },
   "homepage": "https://github.com/binary-person/rammerhead#readme",
   "dependencies": {
